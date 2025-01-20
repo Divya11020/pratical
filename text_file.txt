@@ -1,0 +1,3 @@
+hello this is cloud devops class
+this program tell us about how to push files from remote repostiory to local repository using gitbash
+
